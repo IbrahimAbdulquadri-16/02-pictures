@@ -847,7 +847,7 @@ footer p:nth-child(2) {
   cursor: pointer;
 }
 
-.portfolio_content .vids .videos video {
+.portfolio_content .vids .videos iframe {
   width: 100%;
   height: 80%;
   -o-object-fit: cover;
